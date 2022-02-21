@@ -1,0 +1,21 @@
+{
+    "name": "savagedev/savagedev-php-di-slim-bridge",
+    "description": "PHP-DI bridge for Slim 4 with fixes for psr/container v2",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SavageDev\\DI\\Bridge\\Slim\\": "src/"
+        }
+    },
+    "require": {
+        "php-di/php-di": "v7.x-dev",
+        "slim/slim": "^4.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Savage",
+            "email": "savage@savagedev.io"
+        }
+    ]
+}
