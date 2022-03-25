@@ -1,6 +1,6 @@
 {
     "name": "savagedev/savagedev-php-di-slim-bridge",
-    "description": "PHP-DI bridge for Slim 4 with fixes for psr/container v2",
+    "description": "PHP-DI bridge for Slim 4 with fixes for psr/container v2. This package will be inactive when and if slim-bridge package is update.",
     "type": "library",
     "autoload": {
         "psr-4": {
